@@ -6,4 +6,4 @@ A minimalistic program implementing a genetic algorithm with the following attri
 2. The fitness is "maxone" — number of 1s in an individual genome
 3. Tournament selection
 4. Single-point crossover
-5. Bitwise (flip) mutation 
+5. Bitwise flip mutation 
