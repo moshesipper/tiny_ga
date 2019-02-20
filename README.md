@@ -1,5 +1,4 @@
-# tiny-ga
-Tiny Genetic Algorithm in Python
+#Tiny Genetic Algorithm in Python
 
 A minimalistic program implementing a genetic algorithm with the following attributes:
 
