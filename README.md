@@ -10,7 +10,7 @@ A minimalistic program implementing a genetic algorithm with the following attri
 
 If you wish to cite this:
 ```
-@misc{Sipper2019TinyGA,
+@misc{Sipper2019tinyGA,
   author = {Sipper, M.},
   title = {Tiny Genetic Algorithm in Python},
   year = {2019},
