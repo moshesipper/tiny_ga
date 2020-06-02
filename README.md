@@ -7,3 +7,15 @@ A minimalistic program implementing a genetic algorithm with the following attri
 3. Tournament selection
 4. Single-point crossover
 5. Bitwise flip mutation 
+
+If you wish to cite this:
+```
+@misc{Sipper2019TinyGA,
+  author = {Sipper, M.},
+  title = {Tiny Genetic Algorithm in Python},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/moshesipper/tiny_ga} }
+}
+```
