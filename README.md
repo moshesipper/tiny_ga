@@ -8,6 +8,8 @@ A minimalistic program implementing a genetic algorithm with the following attri
 4. Single-point crossover
 5. Bitwise flip mutation 
 
+Update June 2023 -- Wrote an even tinier version of a genetic algorithm, `tiny_ga_v2.py` – just 33 loc.
+
 If you wish to cite this:
 ```
 @misc{Sipper2019tinyGA,
