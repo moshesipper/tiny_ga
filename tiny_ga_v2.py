@@ -25,7 +25,7 @@ def crossover(parent1, parent2):  # single-point crossover
 
 
 def mutation(individual):  # bitwise mutation with probability 0.1
-    for _ in range(len(individual)):
+    for i in range(len(individual)):
         if random.random() < 0.1:
             individual = individual[:i] + [1-individual[i]] + individual[i + 1:]
     return individual
